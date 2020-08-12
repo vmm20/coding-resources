@@ -1,4 +1,4 @@
-<a href="/coding-resources">Return to main site</a>
+<a href="..">Return to main site</a>
 
 <table>
   <tr>
@@ -8,7 +8,7 @@
     <td><b>Description/Purpose</b></td>
   </tr>
   <tr>
-    <td><a href="">Python</a></td>
+    <td><a href="Python">Python</a></td>
     <td><img src="logos/Python.png" width="300"/></td>
     <td>Programming Language</td>
     <td>Very popular general purpose interpreted programming language.  Great for complete beginners.  Works on all platforms.</td>
