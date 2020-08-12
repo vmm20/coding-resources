@@ -16,3 +16,14 @@
 - [CodingBat](https://codingbat.com/python)
 - [CodeHS](https://codehs.com/info/curriculum/intropython)
 - [Coursera](https://www.coursera.org/specializations/python)
+
+## Code
+- [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+- [CodingGround](https://www.tutorialspoint.com/execute_python_online.php)
+- [SoloLearn](https://code.sololearn.com/#py)
+- [Repl.it](https://repl.it/languages/python3)
+
+## Learn and Build (Advanced)
+- [Google Cloud](https://cloud.google.com/python)
+- [Amazon Web Services](https://aws.amazon.com/developer/language/python/)
+- [Microsoft Azure](https://docs.microsoft.com/en-us/azure/python/)
