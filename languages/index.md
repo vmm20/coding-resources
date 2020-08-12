@@ -1,3 +1,5 @@
+<a href="/coding-resources">Return to main site</a>
+
 <table>
   <tr>
     <td><b>Language</b></td>
