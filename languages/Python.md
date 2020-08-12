@@ -25,7 +25,7 @@
 - [SoloLearn](https://code.sololearn.com/#py)
 - [Repl.it](https://repl.it/languages/python3)
 
-## Learn and Build (Advanced)
+## Learn and Build
 - [Google Cloud](https://cloud.google.com/python)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/python/)
 - [Microsoft Azure](https://docs.microsoft.com/en-us/azure/python/)
