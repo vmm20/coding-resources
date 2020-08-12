@@ -19,5 +19,5 @@
 ## Code
 - [CodingGround](https://www.tutorialspoint.com/codingground.htm)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/sqlite)

@@ -20,4 +20,4 @@
 - [CodingGround](https://www.tutorialspoint.com/online_jquery_editor.php)
 - [SoloLearn](https://code.sololearn.com/#jquery)
 
-## Learn and Build
+## Build

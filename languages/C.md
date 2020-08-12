@@ -17,5 +17,5 @@
 - [CodingGround](https://www.tutorialspoint.com/compile_c_online.php)
 - [SoloLearn](https://code.sololearn.com/#c)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/c)

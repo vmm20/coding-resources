@@ -18,5 +18,5 @@
 - [CodingGround](https://www.tutorialspoint.com/compile_swift_online.php)
 - [SoloLearn](https://code.sololearn.com/#swift)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/swift)

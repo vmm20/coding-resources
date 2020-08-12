@@ -16,5 +16,5 @@
 - [CodingGround](https://www.tutorialspoint.com/compile_kotlin_online.php)
 - [SoloLearn](https://code.sololearn.com/#kt)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/kotlin)

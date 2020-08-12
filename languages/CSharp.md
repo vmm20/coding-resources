@@ -21,7 +21,7 @@
 - [CodingGround](https://www.tutorialspoint.com/compile_csharp_online.php)
 - [SoloLearn](https://code.sololearn.com/#cs)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/csharp)
 - [Google Cloud](https://cloud.google.com/dotnet)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/net/)

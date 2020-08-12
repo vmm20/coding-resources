@@ -24,7 +24,7 @@
 - [CodingGround](https://www.tutorialspoint.com/online_javascript_editor.php)
 - [SoloLearn](https://code.sololearn.com/#html)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/html)
 - [Google Apps Script](https://script.google.com)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/javascript/)

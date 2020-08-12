@@ -24,6 +24,6 @@
 - [CodingGround](https://www.tutorialspoint.com/online_html_editor.php)
 - [SoloLearn](https://code.sololearn.com/#html)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/html)
 - [Google Apps Script](https://script.google.com)

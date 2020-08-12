@@ -19,7 +19,7 @@
 - [CodingGround](https://www.tutorialspoint.com/execute_ruby_online.php)
 - [SoloLearn](https://code.sololearn.com/#rb)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/ruby)
 - [Google Cloud](https://cloud.google.com/ruby)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/ruby/)

@@ -23,7 +23,7 @@
 - [CodingGround](https://www.tutorialspoint.com/compile_java_online.php)
 - [SoloLearn](https://code.sololearn.com/#java)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/java10)
 - [Google Cloud](https://cloud.google.com/java)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/java/)

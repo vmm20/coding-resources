@@ -17,7 +17,7 @@
 - [OnlineGDB](https://www.onlinegdb.com/online_go_compiler)
 - [CodingGround](https://www.tutorialspoint.com/execute_golang_online.php)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/go)
 - [Google Cloud](https://cloud.google.com/go/home)
 - [Amazon Web Services](https://aws.amazon.com/sdk-for-go/)

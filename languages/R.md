@@ -16,5 +16,5 @@
 - [OnlineGDB](https://www.onlinegdb.com/online_r_interpreter)
 - [CodingGround](https://www.tutorialspoint.com/execute_r_online.php)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/rlang)

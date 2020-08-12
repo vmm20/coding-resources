@@ -18,7 +18,7 @@
 ## Code
 - [CodingGround](https://www.tutorialspoint.com/execute_nodejs_online.php)
 
-## Learn and Build
+## Build
 - [Google Cloud](https://cloud.google.com/nodejs)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/javascript/)
 - [Microsoft Azure](https://docs.microsoft.com/azure/javascript/)

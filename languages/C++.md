@@ -20,5 +20,5 @@
 - [CodingGround](https://www.tutorialspoint.com/compile_cpp_online.php)
 - [SoloLearn](https://code.sololearn.com/#cpp)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/cpp)

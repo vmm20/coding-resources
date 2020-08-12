@@ -20,7 +20,7 @@
 - [CodingGround](https://www.tutorialspoint.com/execute_php_online.php)
 - [SoloLearn](https://code.sololearn.com/#php)
 
-## Learn and Build
+## Build
 - [Repl.it](https://repl.it/languages/php7)
 - [Google Cloud](https://cloud.google.com/php)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/php/)

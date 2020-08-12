@@ -14,5 +14,5 @@
 ## Code
 
 
-## Learn and Build
+## Build
 - [Google Apps Script](https://script.google.com)
