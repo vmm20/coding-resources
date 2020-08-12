@@ -8,109 +8,109 @@
     <td><b>Description/Purpose</b></td>
   </tr>
   <tr>
-    <td>Python</td>
+    <td><a href="">Python</a></td>
     <td><img src="logos/Python.png" width="300"/></td>
     <td>Programming Language</td>
     <td>Very popular general purpose interpreted programming language.  Great for complete beginners.  Works on all platforms.</td>
   </tr>
   <tr>
-    <td>Java</td>
+    <td><a href="">Java</a></td>
     <td><img src="logos/Java.png" width="300"/></td>
     <td>Programming Language</td>
     <td>Popular general purpose interpreted programming language.  Tested on the AP Computer Science A exam.</td>
   </tr>
   <tr>
-    <td>C++</td>
+    <td><a href="">C++</a></td>
     <td><img src="logos/C++.png" width="300"/></td>
     <td>Programming Language</td>
     <td>Extremely powerful low-level general-purpose compiled programming language.  Allows the developer to directly control allocation and freeing of memory.</td>
   </tr>
   <tr>
-    <td>HTML</td>
+    <td><a href="">HTML</a></td>
     <td><img src="logos/HTML.png" width="300"/></td>
     <td>Markup Language</td>
     <td>Universal language used to render the content of web pages.</td>
   </tr>
   <tr>
-    <td>CSS</td>
+    <td><a href="">CSS</a></td>
     <td><img src="logos/CSS.png" width="300"/></td>
     <td></td>
     <td>Universal language used to render the styling of web pages.</td>
   </tr>
   <tr>
-    <td>JavaScript</td>
+    <td><a href="">JavaScript</a></td>
     <td><img src="logos/JavaScript.png" width="300"/></td>
     <td>Scripting Language</td>
     <td>Widespread language used to create interactive elements on web pages.  Implemented slightly differently on every browser.  Systems such as Google Apps Script are based on Javascript's syntax.</td>
   </tr>
   <tr>
-    <td>C#</td>
+    <td><a href="">C#</a></td>
     <td><img src="logos/CSharp.png" width="300"/></td>
     <td>Programming Language</td>
     <td>Microsoft's language used by .NET developers to create a wide variety of Windows applications.  Very easy to learn after C++ and Java.</td>
   </tr>
   <tr>
-    <td>Node.js</td>
+    <td><a href="">Node.js</a></td>
     <td><img src="logos/Nodejs.png" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>C</td>
+    <td><a href="">C</a></td>
     <td><img src="logos/C.png" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>PHP Web Server</td>
+    <td><a href="">PHP Web Server</a></td>
     <td><img src="logos/PHPWebServer.png" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Ruby</td>
+    <td><a href="">Ruby</a></td>
     <td><img src="logos/Ruby.png" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Go</td>
+    <td><a href="">Go</a></td>
     <td><img src="logos/Go.png" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>jQuery</td>
+    <td><a href="">jQuery</a></td>
     <td><img src="logos/jQuery.png" width="300"/></td>
     <td>Library</td>
     <td>A JavaScript library specifically designed to make scripting in JavaScript easier.  Creates more intuitive syntax, with well-delineated selectors, actions, and properties.</td>
   </tr>
   <tr>
-    <td>Swift</td>
+    <td><a href="">Swift</a></td>
     <td><img src="logos/Swift.png" width="300"/></td>
     <td>Programming Language</td>
     <td>A language designed by Apple, Inc. for the development of iOS and macOS applications.  Best used with Apple's Xcode IDE.</td>
   </tr>
   <tr>
-    <td>Kotlin</td>
+    <td><a href="">Kotlin</a></td>
     <td><img src="logos/Kotlin.png" width="300"/></td>
     <td>Programming Language</td>
     <td>An alternative to Java for building apps on the Android platform.  Used in thousands of published Android apps.</td>
   </tr>
   <tr>
-    <td>Google Apps Script</td>
+    <td><a href="">Google Apps Script</a></td>
     <td><img src="logos/GoogleAppsScript.png" width="300"/></td>
     <td>Scripting Language</td>
     <td>Google's special server-side JavaScript that allows Google users to programmatically control Google services.  Requires a Google account, but no additional setup is required.</td>
   </tr>
   <tr>
-    <td>MySQL</td>
+    <td><a href="">MySQL</a></td>
     <td><img src="logos/MySQL.png" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>R</td>
+    <td><a href="">R</a></td>
     <td><img src="logos/R.png" width="300"/></td>
     <td></td>
     <td></td>
