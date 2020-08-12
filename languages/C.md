@@ -1,6 +1,6 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
-# LANGUAGE
+# C
 
 <img src="logos/C.png" width="300"/>
 
