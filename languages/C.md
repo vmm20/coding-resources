@@ -2,7 +2,7 @@
 
 # LANGUAGE
 
-<img src="logos/LANGUAGE.png" width="300"/>
+<img src="logos/C.png" width="300"/>
 
 ## Info
 - [Official Docs from Microsoft](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference)
