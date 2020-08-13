@@ -1,3 +1,9 @@
+<style>
+a {
+  font-style: italic;
+}
+</style>
+
 <a href="..">&lt;&lt; Back to main site</a>
 
 <table>
