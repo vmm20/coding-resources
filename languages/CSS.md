@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # CSS
 Universal language used to render the styling of web pages.
 
-<img src="logos/CSS.png" height="150"/>
+<img src="logos/CSS.png" />
 
 ## Info
 - [Reference](https://www.w3schools.com/cssref/default.asp)

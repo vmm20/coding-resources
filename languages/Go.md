@@ -1,8 +1,17 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Go
 
-<img src="logos/Go.png" height="150"/>
+<img src="logos/Go.png" />
 
 ## Info
 - [Official Docs from Golang.org](https://golang.org/doc/)

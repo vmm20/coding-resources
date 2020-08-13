@@ -1,8 +1,17 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # R
 
-<img src="logos/R.png" height="150"/>
+<img src="logos/R.png" />
 
 ## Info
 - [Official Docs from R-project.org](https://cran.r-project.org/manuals.htmlz)

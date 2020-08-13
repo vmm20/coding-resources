@@ -1,8 +1,17 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # C
 
-<img src="logos/C.png" height="150"/>
+<img src="logos/C.png" />
 
 ## Info
 - [Official Docs from Microsoft](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference)

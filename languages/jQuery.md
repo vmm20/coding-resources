@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # jQuery
 A JavaScript library specifically designed to make scripting in JavaScript easier.  Creates more intuitive syntax, with well-delineated selectors, actions, and properties.
 
-<img src="logos/jQuery.png" height="150"/>
+<img src="logos/jQuery.png" />
 
 ## Info
 - [Official Docs from jQuery.com](https://api.jquery.com/)

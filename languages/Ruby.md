@@ -1,8 +1,17 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Ruby
 
-<img src="logos/Ruby.png" height="150"/>
+<img src="logos/Ruby.png" />
 
 ## Info
 - [Official Docs from Ruby-Lang.org](https://www.ruby-lang.org/en/documentation/)

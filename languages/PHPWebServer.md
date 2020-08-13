@@ -1,8 +1,17 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # PHP Web Server
 
-<img src="logos/PHPWebServer.png" height="150"/>
+<img src="logos/PHPWebServer.png" />
 
 ## Info
 - [Official Docs from PHP.net](https://www.php.net/manual/en/)

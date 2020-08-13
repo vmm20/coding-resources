@@ -1,8 +1,17 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # MySQL
 
-<img src="logos/MySQL.png" height="150"/>
+<img src="logos/MySQL.png" />
 
 ## Info
 - [Official Docs from MySQL.com](https://dev.mysql.com/doc/)

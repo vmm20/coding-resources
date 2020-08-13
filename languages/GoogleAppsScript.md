@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Google Apps Script
 Google's special server-side JavaScript that allows Google users to programmatically control Google services.  Requires a Google account, but no additional setup is required.
 
-<img src="logos/GoogleAppsScript.png" height="150"/>
+<img src="logos/GoogleAppsScript.png" />
 
 ## Info
 - [Official Docs from Google](https://developers.google.com/apps-script/reference)

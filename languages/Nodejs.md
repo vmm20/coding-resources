@@ -1,8 +1,17 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Node.js
 
-<img src="logos/Nodejs.png" height="150"/>
+<img src="logos/Nodejs.png" />
 
 ## Info
 - [Official Docs from Nodejs.org](https://nodejs.org/en/docs/)

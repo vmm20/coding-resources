@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # JavaScript
 Widespread language used to create interactive elements on web pages.  Implemented slightly differently on every browser.  Systems such as Google Apps Script are based on Javascript's syntax.
 
-<img src="logos/JavaScript.png" height="150"/>
+<img src="logos/JavaScript.png" />
 
 ## Info
 - [Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

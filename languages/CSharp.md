@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # C#
 Microsoft's language used by .NET developers to create a wide variety of Windows applications.  Very easy to learn after C++ and Java.
 
-<img src="logos/CSharp.png" height="150"/>
+<img src="logos/CSharp.png" />
 
 ## Info
 - [Official Docs from Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/)

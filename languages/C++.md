@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # C++
 Extremely powerful low-level general-purpose compiled programming language.  Allows the developer to directly control allocation and freeing of memory.
 
-<img src="logos/C++.png" height="150"/>
+<img src="logos/C++.png" />
 
 ## Info
 - [Official Docs from Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference)

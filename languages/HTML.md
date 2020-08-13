@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # HTML
 Universal language used to render the content of web pages.
 
-<img src="logos/HTML.png" height="150"/>
+<img src="logos/HTML.png" />
 
 ## Info
 - [Reference](https://www.w3schools.com/html/default.asp)

@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Swift
 A language designed by Apple, Inc. for the development of iOS and macOS applications.  Best used with Apple's Xcode IDE.
 
-<img src="logos/Swift.png" height="150"/>
+<img src="logos/Swift.png" />
 
 ## Info
 - [Official Docs from Apple.com](https://developer.apple.com/swift/resources/)
