@@ -2,7 +2,7 @@
 
 # R
 
-<img src="logos/R.png" width="300"/>
+<img src="logos/R.png" height="150"/>
 
 ## Info
 - [Official Docs from R-project.org](https://cran.r-project.org/manuals.htmlz)

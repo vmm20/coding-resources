@@ -3,7 +3,7 @@
 # CSS
 Universal language used to render the styling of web pages.
 
-<img src="logos/CSS.png" width="300"/>
+<img src="logos/CSS.png" height="150"/>
 
 ## Info
 - [Reference](https://www.w3schools.com/cssref/default.asp)

@@ -3,7 +3,7 @@
 # Swift
 A language designed by Apple, Inc. for the development of iOS and macOS applications.  Best used with Apple's Xcode IDE.
 
-<img src="logos/Swift.png" width="300"/>
+<img src="logos/Swift.png" height="150"/>
 
 ## Info
 - [Official Docs from Apple.com](https://developer.apple.com/swift/resources/)

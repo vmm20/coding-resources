@@ -2,7 +2,7 @@
 
 # Node.js
 
-<img src="logos/Nodejs.png" width="300"/>
+<img src="logos/Nodejs.png" height="150"/>
 
 ## Info
 - [Official Docs from Nodejs.org](https://nodejs.org/en/docs/)

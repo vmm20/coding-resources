@@ -3,7 +3,7 @@
 # Google Apps Script
 Google's special server-side JavaScript that allows Google users to programmatically control Google services.  Requires a Google account, but no additional setup is required.
 
-<img src="logos/GoogleAppsScript.png" width="300"/>
+<img src="logos/GoogleAppsScript.png" height="150"/>
 
 ## Info
 - [Official Docs from Google](https://developers.google.com/apps-script/reference)

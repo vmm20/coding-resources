@@ -3,7 +3,7 @@
 # HTML
 Universal language used to render the content of web pages.
 
-<img src="logos/HTML.png" width="300"/>
+<img src="logos/HTML.png" height="150"/>
 
 ## Info
 - [Reference](https://www.w3schools.com/html/default.asp)

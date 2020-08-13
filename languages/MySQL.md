@@ -2,7 +2,7 @@
 
 # MySQL
 
-<img src="logos/MySQL.png" width="300"/>
+<img src="logos/MySQL.png" height="150"/>
 
 ## Info
 - [Official Docs from MySQL.com](https://dev.mysql.com/doc/)

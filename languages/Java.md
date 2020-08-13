@@ -3,7 +3,7 @@
 # Java
 Popular general purpose interpreted programming language.  Tested on the AP Computer Science A exam.
 
-<img src="logos/Java.png" width="300"/>
+<img src="logos/Java.png" height="150"/>
 
 ## Info
 - [Official Docs from Oracle](https://docs.oracle.com/en/java/)

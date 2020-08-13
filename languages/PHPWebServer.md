@@ -2,7 +2,7 @@
 
 # PHP Web Server
 
-<img src="logos/PHPWebServer.png" width="300"/>
+<img src="logos/PHPWebServer.png" height="150"/>
 
 ## Info
 - [Official Docs from PHP.net](https://www.php.net/manual/en/)

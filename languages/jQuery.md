@@ -3,7 +3,7 @@
 # jQuery
 A JavaScript library specifically designed to make scripting in JavaScript easier.  Creates more intuitive syntax, with well-delineated selectors, actions, and properties.
 
-<img src="logos/jQuery.png" width="300"/>
+<img src="logos/jQuery.png" height="150"/>
 
 ## Info
 - [Official Docs from jQuery.com](https://api.jquery.com/)

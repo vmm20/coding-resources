@@ -2,7 +2,7 @@
 
 # Ruby
 
-<img src="logos/Ruby.png" width="300"/>
+<img src="logos/Ruby.png" height="150"/>
 
 ## Info
 - [Official Docs from Ruby-Lang.org](https://www.ruby-lang.org/en/documentation/)

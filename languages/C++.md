@@ -3,7 +3,7 @@
 # C++
 Extremely powerful low-level general-purpose compiled programming language.  Allows the developer to directly control allocation and freeing of memory.
 
-<img src="logos/C++.png" width="300"/>
+<img src="logos/C++.png" height="150"/>
 
 ## Info
 - [Official Docs from Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference)

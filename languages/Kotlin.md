@@ -3,7 +3,7 @@
 # Kotlin
 An alternative to Java for building apps on the Android platform.  Used in thousands of published Android apps.
 
-<img src="logos/Kotlin.png" width="300"/>
+<img src="logos/Kotlin.png" height="150"/>
 
 ## Info
 - [Official Docs from KotlinLang.org](https://kotlinlang.org/)

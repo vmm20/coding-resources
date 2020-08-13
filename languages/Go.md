@@ -2,7 +2,7 @@
 
 # Go
 
-<img src="logos/Go.png" width="300"/>
+<img src="logos/Go.png" height="150"/>
 
 ## Info
 - [Official Docs from Golang.org](https://golang.org/doc/)
