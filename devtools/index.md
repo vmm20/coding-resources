@@ -27,7 +27,7 @@ The following is a compiled, non-exhaustive list of tools that can help with the
   <tr>
     <td><img src="logos/Atom.png" width="150"/></td>
     <td><a href="https://atom.io">Atom</a><br/>
-    An open-source text editor (sponsored by GitHub) with intelligent code colorization, word completion, extensions, and cross-platform support.  Integrates with Git and Github.</td>
+    An open-source text editor (sponsored by GitHub) with intelligent code colorization, word completion, extensions, and cross-platform support.  Integrates with Git and GitHub.</td>
   </tr>
   <tr>
     <td><img src="logos/Eclipse.png" width="150"/></td>
@@ -62,7 +62,7 @@ The following is a compiled, non-exhaustive list of tools that can help with the
   <tr>
     <td><img src="logos/VisualStudioCode.png" width="150"/></td>
     <td><a href="https://code.visualstudio.com/">Visual Studio Code</a><br/>
-    Microsoft's open-source IDE with intelligent code completion and suggestions, extensions, a built-in terminal, debugging, and cross-platform support.  Integrates with Git and Github.</td>
+    Microsoft's open-source IDE with intelligent code completion and suggestions, extensions, a built-in terminal, debugging, and cross-platform support.  Integrates with Git and GitHub.</td>
   </tr>
   <tr>
     <td><img src="logos/Xcode.png" width="150"/></td>
