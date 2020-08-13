@@ -1,14 +1,14 @@
-<a href="..">&lt;&lt; Back to main site</a>
-
-# Developer Tools
-
-The following is a compiled, non-exhaustive list of tools that can help with the development process.  Some of these are language-specific, while others are more general.
-
 <style>
 a {
   font-style: italic;
 }
 </style>
+
+<a href="..">&lt;&lt; Back to main site</a>
+
+# Developer Tools
+
+The following is a compiled, non-exhaustive list of tools that can help with the development process.  Some of these are language-specific, while others are more general.
 
 <table>
   <tr>
