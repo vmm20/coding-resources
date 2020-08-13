@@ -41,7 +41,7 @@ table {
   </tr>
   <tr>
     <td><img src="logos/CSharp.png" /></td>
-    <td><a href="C#">C#</a><br/>Programming Language</td>
+    <td><a href="CSharp">C#</a><br/>Programming Language</td>
   </tr>
   <tr>
     <td><img src="logos/Nodejs.png" /></td>
