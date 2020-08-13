@@ -24,9 +24,6 @@ Google's special server-side JavaScript that allows Google users to programmatic
 ## Learn
 - [Google Developers](https://developers.google.com/apps-script/overview)
 
-## Code
-
-
 ## Build
 - [Google Apps Script](https://script.google.com)
 
@@ -35,5 +32,9 @@ Google's special server-side JavaScript that allows Google users to programmatic
     <tr>
         <td class="extension">gs</td>
         <td>Google Apps Script source file</td>
+    </tr>
+    <tr>
+        <td class="extension">html</td>
+        <td>HTML source file</td>
     </tr>
 </table>
