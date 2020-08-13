@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -39,3 +42,11 @@ Widespread language used to create interactive elements on web pages.  Implement
 - [Google Apps Script](https://script.google.com)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/javascript/)
 - [Microsoft Azure](https://docs.microsoft.com/azure/javascript/)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">js</td>
+        <td>JavaScript source file</td>
+    </tr>
+</table>

@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -26,3 +29,11 @@ Google's special server-side JavaScript that allows Google users to programmatic
 
 ## Build
 - [Google Apps Script](https://script.google.com)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">gs</td>
+        <td>Google Apps Script source file</td>
+    </tr>
+</table>

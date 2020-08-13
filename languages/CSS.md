@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -37,4 +40,16 @@ Universal language used to render the styling of web pages.
 ## Build
 - [Repl.it](https://repl.it/languages/html)
 - [Google Apps Script](https://script.google.com)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">css</td>
+        <td>CSS source file</td>
+    </tr>
+    <tr>
+        <td class="extension">html</td>
+        <td>HTML source file</td>
+    </tr>
+</table>
 

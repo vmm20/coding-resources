@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -36,3 +39,11 @@ Microsoft's language used by .NET developers to create a wide variety of Windows
 - [Google Cloud](https://cloud.google.com/dotnet)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/net/)
 - [Microsoft Azure](https://docs.microsoft.com/en-us/dotnet/azure/)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">cs</td>
+        <td>C# source file</td>
+    </tr>
+</table>

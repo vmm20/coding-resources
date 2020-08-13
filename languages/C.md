@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -28,3 +31,15 @@ img {
 
 ## Build
 - [Repl.it](https://repl.it/languages/c)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">h</td>
+        <td>C/C++ header file</td>
+    </tr>
+    <tr>
+        <td class="extension">c</td>
+        <td>C source file</td>
+    </tr>
+</table>

@@ -39,3 +39,15 @@ Very popular general purpose interpreted programming language.  Great for comple
 - [Google Cloud](https://cloud.google.com/python)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/python/)
 - [Microsoft Azure](https://docs.microsoft.com/en-us/azure/python/)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">py</td>
+        <td>Python source file</td>
+    </tr>
+    <tr>
+        <td class="extension">pyc</td>
+        <td>Python binary file</td>
+    </tr>
+</table>

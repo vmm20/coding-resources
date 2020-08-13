@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -33,3 +36,15 @@ img {
 - [Repl.it](https://repl.it/languages/php7)
 - [Google Cloud](https://cloud.google.com/php)
 - [Amazon Web Services](https://aws.amazon.com/developer/language/php/)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">php</td>
+        <td>PHP source file</td>
+    </tr>
+    <tr>
+        <td class="extension">html</td>
+        <td>HTML source file</td>
+    </tr>
+</table>
