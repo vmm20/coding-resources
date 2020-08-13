@@ -3,7 +3,7 @@
 # Python
 Very popular general purpose interpreted programming language.  Great for complete beginners.  Works on all platforms.
 
-<img src="logos/Python.png" width="300"/>
+<img src="logos/Python.png" height="150" style="float:right;position:sticky;top:50px;"/>
 
 ## Info
 - [Official Docs from Python.org](https://docs.python.org/3/)
