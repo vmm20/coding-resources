@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Python
+Very popular general purpose interpreted programming language.  Great for complete beginners.  Works on all platforms.
 
 <img src="logos/Python.png" width="300"/>
 

@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Java
+Popular general purpose interpreted programming language.  Tested on the AP Computer Science A exam.
 
 <img src="logos/Java.png" width="300"/>
 

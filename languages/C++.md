@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # C++
+Extremely powerful low-level general-purpose compiled programming language.  Allows the developer to directly control allocation and freeing of memory.
 
 <img src="logos/C++.png" width="300"/>
 

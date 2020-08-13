@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # CSS
+Universal language used to render the styling of web pages.
 
 <img src="logos/CSS.png" width="300"/>
 

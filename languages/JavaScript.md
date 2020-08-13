@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # JavaScript
+Widespread language used to create interactive elements on web pages.  Implemented slightly differently on every browser.  Systems such as Google Apps Script are based on Javascript's syntax.
 
 <img src="logos/JavaScript.png" width="300"/>
 

@@ -5,114 +5,87 @@
     <td><b>Language</b></td>
     <td><b>Logo</b></td>
     <td><b>Language Type</b></td>
-    <td><b>Description/Purpose</b></td>
   </tr>
   <tr>
     <td><a href="Python">Python</a></td>
     <td><img src="logos/Python.png" width="300"/></td>
     <td>Programming Language</td>
-    <td>Very popular general purpose interpreted programming language.  Great for complete beginners.  Works on all platforms.</td>
   </tr>
   <tr>
     <td><a href="Java">Java</a></td>
     <td><img src="logos/Java.png" width="300"/></td>
     <td>Programming Language</td>
-    <td>Popular general purpose interpreted programming language.  Tested on the AP Computer Science A exam.</td>
   </tr>
   <tr>
     <td><a href="C++">C++</a></td>
     <td><img src="logos/C++.png" width="300"/></td>
     <td>Programming Language</td>
-    <td>Extremely powerful low-level general-purpose compiled programming language.  Allows the developer to directly control allocation and freeing of memory.</td>
   </tr>
   <tr>
     <td><a href="HTML">HTML</a></td>
     <td><img src="logos/HTML.png" width="300"/></td>
     <td>Markup Language</td>
-    <td>Universal language used to render the content of web pages.</td>
   </tr>
   <tr>
     <td><a href="CSS">CSS</a></td>
     <td><img src="logos/CSS.png" width="300"/></td>
-    <td></td>
-    <td>Universal language used to render the styling of web pages.</td>
   </tr>
   <tr>
     <td><a href="JavaScript">JavaScript</a></td>
     <td><img src="logos/JavaScript.png" width="300"/></td>
     <td>Scripting Language</td>
-    <td>Widespread language used to create interactive elements on web pages.  Implemented slightly differently on every browser.  Systems such as Google Apps Script are based on Javascript's syntax.</td>
   </tr>
   <tr>
     <td><a href="C#">C#</a></td>
     <td><img src="logos/CSharp.png" width="300"/></td>
     <td>Programming Language</td>
-    <td>Microsoft's language used by .NET developers to create a wide variety of Windows applications.  Very easy to learn after C++ and Java.</td>
   </tr>
   <tr>
     <td><a href="Nodejs">Node.js</a></td>
     <td><img src="logos/Nodejs.png" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="C">C</a></td>
     <td><img src="logos/C.png" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="PHPWebServer">PHP Web Server</a></td>
     <td><img src="logos/PHPWebServer.png" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="Ruby">Ruby</a></td>
     <td><img src="logos/Ruby.png" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="Go">Go</a></td>
     <td><img src="logos/Go.png" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="jQuery">jQuery</a></td>
     <td><img src="logos/jQuery.png" width="300"/></td>
     <td>Library</td>
-    <td>A JavaScript library specifically designed to make scripting in JavaScript easier.  Creates more intuitive syntax, with well-delineated selectors, actions, and properties.</td>
   </tr>
   <tr>
     <td><a href="Swift">Swift</a></td>
     <td><img src="logos/Swift.png" width="300"/></td>
     <td>Programming Language</td>
-    <td>A language designed by Apple, Inc. for the development of iOS and macOS applications.  Best used with Apple's Xcode IDE.</td>
   </tr>
   <tr>
     <td><a href="Kotlin">Kotlin</a></td>
     <td><img src="logos/Kotlin.png" width="300"/></td>
     <td>Programming Language</td>
-    <td>An alternative to Java for building apps on the Android platform.  Used in thousands of published Android apps.</td>
   </tr>
   <tr>
     <td><a href="GoogleAppsScript">Google Apps Script</a></td>
     <td><img src="logos/GoogleAppsScript.png" width="300"/></td>
     <td>Scripting Language</td>
-    <td>Google's special server-side JavaScript that allows Google users to programmatically control Google services.  Requires a Google account, but no additional setup is required.</td>
   </tr>
   <tr>
     <td><a href="MySQL">MySQL</a></td>
     <td><img src="logos/MySQL.png" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="R">R</a></td>
     <td><img src="logos/R.png" width="300"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>

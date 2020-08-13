@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Kotlin
+An alternative to Java for building apps on the Android platform.  Used in thousands of published Android apps.
 
 <img src="logos/Kotlin.png" width="300"/>
 

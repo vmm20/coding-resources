@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # C#
+Microsoft's language used by .NET developers to create a wide variety of Windows applications.  Very easy to learn after C++ and Java.
 
 <img src="logos/CSharp.png" width="300"/>
 

@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # HTML
+Universal language used to render the content of web pages.
 
 <img src="logos/HTML.png" width="300"/>
 

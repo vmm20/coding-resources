@@ -1,6 +1,7 @@
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Swift
+A language designed by Apple, Inc. for the development of iOS and macOS applications.  Best used with Apple's Xcode IDE.
 
 <img src="logos/Swift.png" width="300"/>
 
