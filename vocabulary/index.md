@@ -6,7 +6,7 @@ a {
 
 <a href="..">&lt;&lt; Back to main site</a>
 
-# Developer Tools
+# Vocabulary
 
 The following is a compiled, non-exhaustive list of vocabulary words related to coding and software development.
 
