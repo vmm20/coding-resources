@@ -10,3 +10,4 @@ This website contains links to various resources to help beginner programmers le
 
 - [Languages](languages/)
 - [Developer Tools and Resources](devtools/)
+- [Vocabulary](vocabulary)
