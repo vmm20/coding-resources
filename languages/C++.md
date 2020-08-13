@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -32,3 +35,23 @@ Extremely powerful low-level general-purpose compiled programming language.  All
 
 ## Build
 - [Repl.it](https://repl.it/languages/cpp)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">cpp</td>
+        <td>C++ source file</td>
+    </tr>
+    <tr>
+        <td class="extension">hpp</td>
+        <td>C++ header file</td>
+    </tr>
+    <tr>
+        <td class="extension">h</td>
+        <td>C/C++ header file</td>
+    </tr>
+    <tr>
+        <td class="extension">c</td>
+        <td>C source file</td>
+    </tr>
+</table>
