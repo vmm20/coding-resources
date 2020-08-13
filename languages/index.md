@@ -6,6 +6,10 @@ img {
   width: 100px;
   margin: 0px 50px
 }
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 
 <a href="..">&lt;&lt; Back to main site</a>
