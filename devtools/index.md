@@ -18,7 +18,11 @@ The following is a compiled, non-exhaustive list of tools that can help with the
   <tr>
     <td><img src="logos/AndroidStudio.png" width="150"/></td>
     <td><a href="https://developer.android.com/studio/">Android Studio</a><br/>
-    Official IDE for building Android apps.  Includes intelligent code completion, debugging, emulators, and more.  Not for general Java development.</td>
+    Official IDE for building Android apps.  Includes intelligent code completion, debugging, emulators, and more.  Not for general Java development.
+    <ul>
+      <li>Java</li>
+      <li>Kotlin</li>
+    </ul></td>
   </tr>
   <tr>
     <td><img src="logos/Atom.png" width="150"/></td>
@@ -63,6 +67,8 @@ The following is a compiled, non-exhaustive list of tools that can help with the
   <tr>
     <td><img src="logos/Xcode.png" width="150"/></td>
     <td><a href="https://developer.apple.com/xcode/">Xcode</a><br/>
-    Apple's IDE for iOS and macOS development, with a focus on the Swift programming language.  Requires registration as an Apple developer to download.</td>
+    Apple's IDE for iOS and macOS development, with a focus on the Swift programming language.  Requires registration as an Apple developer to download.<ul>
+      <li>Swift</li>
+</ul></td>
   </tr>
 </table>
