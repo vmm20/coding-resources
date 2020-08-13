@@ -1,9 +1,18 @@
+<style>
+img {
+    height: 150px;
+    float: right;
+    position: sticky;
+    top: 50px;
+}
+</style>
+
 <a href=".">&lt;&lt; Back to Languages</a>
 
 # Java
 Popular general purpose interpreted programming language.  Tested on the AP Computer Science A exam.
 
-<img src="logos/Java.png" height="150"/>
+<img src="logos/Java.png" />
 
 ## Info
 - [Official Docs from Oracle](https://docs.oracle.com/en/java/)
