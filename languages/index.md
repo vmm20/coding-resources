@@ -1,4 +1,4 @@
-<a href="..">Return to main site</a>
+<a href="..">&lt;&lt; Back to main site</a>
 
 <table>
   <tr>
