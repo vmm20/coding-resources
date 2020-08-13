@@ -5,6 +5,9 @@ img {
     position: sticky;
     top: 50px;
 }
+td.extension {
+    font-weight: bold;
+}
 </style>
 
 <a href=".">&lt;&lt; Back to Languages</a>
@@ -31,3 +34,23 @@ A JavaScript library specifically designed to make scripting in JavaScript easie
 - [SoloLearn](https://code.sololearn.com/#jquery)
 
 ## Build
+- [Repl.it](https://repl.it/languages/html)
+- [Google Apps Script](https://script.google.com)
+- [Amazon Web Services](https://aws.amazon.com/developer/language/javascript/)
+- [Microsoft Azure](https://docs.microsoft.com/azure/javascript/)
+
+## Common File Extensions
+<table>
+    <tr>
+        <td class="extension">js</td>
+        <td>JavaScript source file</td>
+    </tr>
+    <tr>
+        <td class="extension">html</td>
+        <td>HTML source file</td>
+    </tr>
+    <tr>
+        <td class="extension">css</td>
+        <td>CSS source file</td>
+    </tr>
+</table>

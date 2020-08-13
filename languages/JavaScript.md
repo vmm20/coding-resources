@@ -49,4 +49,12 @@ Widespread language used to create interactive elements on web pages.  Implement
         <td class="extension">js</td>
         <td>JavaScript source file</td>
     </tr>
+    <tr>
+        <td class="extension">html</td>
+        <td>HTML source file</td>
+    </tr>
+    <tr>
+        <td class="extension">css</td>
+        <td>CSS source file</td>
+    </tr>
 </table>
